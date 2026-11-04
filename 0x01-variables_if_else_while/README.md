@@ -14,5 +14,8 @@ This project covers variables, `if`/`else` statements and `while` loops in C.
    What I Call the Alphabet Game**: a C program that prints the alphabet in
    lowercase using `putchar`.
 
+3. **alphABET**: a C program that prints the alphabet in lowercase and
+   then in uppercase using `putchar`.
+
 ## Author
 Pacifique Kabanda
