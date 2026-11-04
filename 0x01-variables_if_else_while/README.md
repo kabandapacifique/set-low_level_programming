@@ -22,5 +22,8 @@ This project covers variables, `if`/`else` statements and `while` loops in C.
    Pay Off**: a C program that prints the lowercase alphabet except `q`
    and `e`, using `putchar`.
 
+5. **Numbers**: a C program that prints all single digit numbers of base 10
+   starting from 0.
+
 ## Author
 Pacifique Kabanda
