@@ -31,5 +31,9 @@ This project covers variables, `if`/`else` statements and `while` loops in C.
 7. **Smile in the Mirror**: a C program that prints the lowercase alphabet
    in reverse using `putchar`.
 
+
+8. **Hexadecimal**: a C program that prints all the numbers of base 16 in
+   lowercase using `putchar`.
+
 ## Author
 Pacifique Kabanda
