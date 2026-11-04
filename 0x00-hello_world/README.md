@@ -15,6 +15,11 @@ This project introduces C programming and the compilation process.
 
 3. **Name**: a script that compiles the C file named in `$CFILE` and
    creates an executable named `cisfun`.
+
+
+4. **Hello, puts**: a C program that prints a sentence using `puts`
+   and ends with the value `0`.
+
 ## Requirements
 - Editors: vi, vim, emacs
 - Ubuntu 20.04 LTS, compiled with gcc
