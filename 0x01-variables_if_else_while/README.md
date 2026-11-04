@@ -25,5 +25,8 @@ This project covers variables, `if`/`else` statements and `while` loops in C.
 5. **Numbers**: a C program that prints all single digit numbers of base 10
    starting from 0.
 
+6. **Numberz**: a C program that prints all single digit numbers of base 10
+   starting from 0 using `putchar` and no `char` variable.
+
 ## Author
 Pacifique Kabanda
