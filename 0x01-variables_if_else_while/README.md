@@ -35,5 +35,9 @@ This project covers variables, `if`/`else` statements and `while` loops in C.
 8. **Hexadecimal**: a C program that prints all the numbers of base 16 in
    lowercase using `putchar`.
 
+9. **Patience, Persistence and Perspiration Make an Unbeatable Combination
+   for Success**: a C program that prints all possible combinations of
+   single-digit numbers separated by `, `, using `putchar`.
+
 ## Author
 Pacifique Kabanda
