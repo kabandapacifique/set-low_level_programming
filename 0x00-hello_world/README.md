@@ -20,6 +20,10 @@ This project introduces C programming and the compilation process.
 4. **Hello, puts**: a C program that prints a sentence using `puts`
    and ends with the value `0`.
 
+
+5. **Hello, printf**: a C program that prints a sentence using `printf`
+   and returns `0`.
+
 ## Requirements
 - Editors: vi, vim, emacs
 - Ubuntu 20.04 LTS, compiled with gcc
