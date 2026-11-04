@@ -17,5 +17,10 @@ This project covers variables, `if`/`else` statements and `while` loops in C.
 3. **alphABET**: a C program that prints the alphabet in lowercase and
    then in uppercase using `putchar`.
 
+
+4. **When I was Having that Alphabet Soup, I Never Thought That it Would
+   Pay Off**: a C program that prints the lowercase alphabet except `q`
+   and `e`, using `putchar`.
+
 ## Author
 Pacifique Kabanda
