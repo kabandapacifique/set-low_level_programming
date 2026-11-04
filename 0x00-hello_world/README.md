@@ -24,6 +24,10 @@ This project introduces C programming and the compilation process.
 5. **Hello, printf**: a C program that prints a sentence using `printf`
    and returns `0`.
 
+6. **Size is not Grandeur, and Territory Does Not Make a Nation**: a C
+   program that prints the size of various types on the computer it is
+   compiled and run on.
+
 ## Requirements
 - Editors: vi, vim, emacs
 - Ubuntu 20.04 LTS, compiled with gcc
