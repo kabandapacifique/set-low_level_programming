@@ -28,5 +28,8 @@ This project covers variables, `if`/`else` statements and `while` loops in C.
 6. **Numberz**: a C program that prints all single digit numbers of base 10
    starting from 0 using `putchar` and no `char` variable.
 
+7. **Smile in the Mirror**: a C program that prints the lowercase alphabet
+   in reverse using `putchar`.
+
 ## Author
 Pacifique Kabanda
