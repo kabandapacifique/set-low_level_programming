@@ -14,5 +14,8 @@ for all output.
 2. **10 x Alphabet**: a function that prints the lowercase alphabet 10 times,
    each followed by a new line.
 
+3. **islower**: a function that checks for a lowercase character and
+   returns 1 if it is, 0 otherwise.
+
 ## Author
 Pacifique Kabanda
