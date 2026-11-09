@@ -20,5 +20,8 @@ for all output.
 4. **isalpha**: a function that checks for an alphabetic character and
    returns 1 if it is a letter, 0 otherwise.
 
+5. **Sign**: a function that prints the sign of a number and returns 1, 0
+   or -1.
+
 ## Author
 Pacifique Kabanda
