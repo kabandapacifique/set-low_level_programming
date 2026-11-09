@@ -17,5 +17,8 @@ for all output.
 3. **islower**: a function that checks for a lowercase character and
    returns 1 if it is, 0 otherwise.
 
+4. **isalpha**: a function that checks for an alphabetic character and
+   returns 1 if it is a letter, 0 otherwise.
+
 ## Author
 Pacifique Kabanda
