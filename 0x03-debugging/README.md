@@ -13,5 +13,8 @@ This project covers debugging C programs, including writing test mains.
 2. **0 > 972?**: a fixed `2-largest_number.c` that correctly returns the
    largest of three integers.
 
+3. **Leap Year**: a fixed `3-print_remaining_days.c` that correctly handles
+   leap years, including years divisible by 100 and 400.
+
 ## Author
 Pacifique Kabanda
