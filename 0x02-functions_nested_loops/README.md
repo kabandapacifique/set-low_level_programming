@@ -23,5 +23,9 @@ for all output.
 5. **Sign**: a function that prints the sign of a number and returns 1, 0
    or -1.
 
+6. **There is no Such Thing as Absolute Value in This World. You Can Only
+   Estimate What a Thing is Worth to You**: a function that computes the
+   absolute value of an integer.
+
 ## Author
 Pacifique Kabanda
