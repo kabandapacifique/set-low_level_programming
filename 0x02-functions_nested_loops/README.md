@@ -40,5 +40,8 @@ for all output.
 
 10. **a + b**: a function that adds two integers and returns the result.
 
+11. **98 Battery Street, the OG**: a function that prints all natural
+    numbers from `n` to 98, separated by a comma and a space.
+
 ## Author
 Pacifique Kabanda
