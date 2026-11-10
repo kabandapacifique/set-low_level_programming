@@ -27,5 +27,9 @@ for all output.
    Estimate What a Thing is Worth to You**: a function that computes the
    absolute value of an integer.
 
+7. **There are Only 3 Colors, 10 Digits, and 7 Notes; It's What we do With
+   Them That's Important**: a function that prints the last digit of a
+   number and returns its value.
+
 ## Author
 Pacifique Kabanda
