@@ -10,5 +10,8 @@ This project covers debugging C programs, including writing test mains.
 1. **Like, Comment, Subscribe**: a `1-main.c` file where the code causing
    an infinite loop is commented out.
 
+2. **0 > 972?**: a fixed `2-largest_number.c` that correctly returns the
+   largest of three integers.
+
 ## Author
 Pacifique Kabanda
