@@ -38,5 +38,7 @@ for all output.
 9. **Learn your Times Table**: a function that prints the 9 times table,
    starting with 0.
 
+10. **a + b**: a function that adds two integers and returns the result.
+
 ## Author
 Pacifique Kabanda
