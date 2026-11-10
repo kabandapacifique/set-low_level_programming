@@ -35,5 +35,8 @@ for all output.
    Life**: a function that prints every minute of the day, from 00:00 to
    23:59.
 
+9. **Learn your Times Table**: a function that prints the 9 times table,
+   starting with 0.
+
 ## Author
 Pacifique Kabanda
