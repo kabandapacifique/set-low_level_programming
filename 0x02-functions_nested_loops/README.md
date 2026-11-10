@@ -31,5 +31,9 @@ for all output.
    Them That's Important**: a function that prints the last digit of a
    number and returns its value.
 
+8. **I'm Federal Agent Jack Bauer, and Today is the Longest Day of My
+   Life**: a function that prints every minute of the day, from 00:00 to
+   23:59.
+
 ## Author
 Pacifique Kabanda
