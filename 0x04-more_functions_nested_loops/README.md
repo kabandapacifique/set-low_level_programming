@@ -35,5 +35,8 @@ This project covers more functions and nested loops in C.
    replacing multiples of 3 with `Fizz`, multiples of 5 with `Buzz`, and
    multiples of both with `FizzBuzz`.
 
+10. **Triangles**: a function that prints a right-aligned triangle using
+    the character `#`.
+
 ## Author
 Pacifique Kabanda
