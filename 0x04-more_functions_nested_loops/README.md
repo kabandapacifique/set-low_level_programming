@@ -25,5 +25,8 @@ This project covers more functions and nested loops in C.
 6. **The shortest distance between two points is a straight line**: a
    function that draws a straight line of `_` in the terminal.
 
+7. **I feel like I am diagonally parked in a parallel universe**: a
+   function that draws a diagonal line in the terminal.
+
 ## Author
 Pacifique Kabanda
