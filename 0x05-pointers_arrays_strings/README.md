@@ -34,5 +34,8 @@ This project covers pointers, arrays and strings in C.
 8. **Arrays are not pointers**: a function that prints `n` elements of an
    array of integers, separated by a comma and a space.
 
+9. **strcpy**: a function that copies a string, including the
+   terminating null byte, to a buffer and returns the pointer to `dest`.
+
 ## Author
 Pacifique Kabanda
