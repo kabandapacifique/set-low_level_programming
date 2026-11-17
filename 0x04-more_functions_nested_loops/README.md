@@ -31,5 +31,9 @@ This project covers more functions and nested loops in C.
 8. **You are so much sunshine in every square inch**: a function that
    prints a square using the character `#`.
 
+9. **Fizz-Buzz**: a program that prints the numbers from 1 to 100,
+   replacing multiples of 3 with `Fizz`, multiples of 5 with `Buzz`, and
+   multiples of both with `FizzBuzz`.
+
 ## Author
 Pacifique Kabanda
