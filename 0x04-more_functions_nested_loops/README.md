@@ -28,5 +28,8 @@ This project covers more functions and nested loops in C.
 7. **I feel like I am diagonally parked in a parallel universe**: a
    function that draws a diagonal line in the terminal.
 
+8. **You are so much sunshine in every square inch**: a function that
+   prints a square using the character `#`.
+
 ## Author
 Pacifique Kabanda
