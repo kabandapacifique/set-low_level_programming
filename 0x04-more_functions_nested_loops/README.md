@@ -22,5 +22,8 @@ This project covers more functions and nested loops in C.
 5. **Numbers constitute the only universal language**: a function that
    prints 10 times the numbers from 0 to 14, followed by a new line.
 
+6. **The shortest distance between two points is a straight line**: a
+   function that draws a straight line of `_` in the terminal.
+
 ## Author
 Pacifique Kabanda
