@@ -27,5 +27,9 @@ This project covers pointers, arrays and strings in C.
    prints every other character of a string, starting with the first
    character, followed by a new line.
 
+7. **Winning is only half of it. Having fun is the other half**: a
+   function that prints the second half of a string, followed by a new
+   line.
+
 ## Author
 Pacifique Kabanda
