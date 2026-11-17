@@ -31,5 +31,8 @@ This project covers pointers, arrays and strings in C.
    function that prints the second half of a string, followed by a new
    line.
 
+8. **Arrays are not pointers**: a function that prints `n` elements of an
+   array of integers, separated by a comma and a space.
+
 ## Author
 Pacifique Kabanda
