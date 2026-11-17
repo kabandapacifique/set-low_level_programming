@@ -10,5 +10,8 @@ This project covers more functions and nested loops in C.
 1. **isdigit**: a function that checks for a digit (0 through 9) and
    returns 1 if it is, 0 otherwise.
 
+2. **Collaboration is multiplication**: a function that multiplies two
+   integers.
+
 ## Author
 Pacifique Kabanda
