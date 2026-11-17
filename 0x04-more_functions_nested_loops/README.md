@@ -19,5 +19,8 @@ This project covers more functions and nested loops in C.
 4. **I believe in numbers and signs**: a function that prints the numbers
    from 0 to 9 except 2 and 4, followed by a new line.
 
+5. **Numbers constitute the only universal language**: a function that
+   prints 10 times the numbers from 0 to 14, followed by a new line.
+
 ## Author
 Pacifique Kabanda
