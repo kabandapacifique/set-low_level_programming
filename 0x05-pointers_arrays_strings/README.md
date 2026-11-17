@@ -12,5 +12,8 @@ This project covers pointers, arrays and strings in C.
 
 2. **This report, by its very length, defends itself against the risk of
    being read**: a function that returns the length of a string.
+
+3. **I do not fear computers. I fear the lack of them**: a function that
+   prints a string, followed by a new line.
 ## Author
 Pacifique Kabanda
