@@ -16,5 +16,8 @@ This project covers more functions and nested loops in C.
 3. **The numbers speak for themselves**: a function that prints the
    numbers from 0 to 9, followed by a new line.
 
+4. **I believe in numbers and signs**: a function that prints the numbers
+   from 0 to 9 except 2 and 4, followed by a new line.
+
 ## Author
 Pacifique Kabanda
