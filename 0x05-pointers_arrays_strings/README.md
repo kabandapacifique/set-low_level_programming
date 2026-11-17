@@ -22,5 +22,10 @@ This project covers pointers, arrays and strings in C.
 5. **A good engineer thinks in reverse and asks himself about the
    stylistic consequences of the components and systems he proposes**: a
    function that reverses a string.
+
+6. **Half the lies they tell about me aren't true**: a function that
+   prints every other character of a string, starting with the first
+   character, followed by a new line.
+
 ## Author
 Pacifique Kabanda
