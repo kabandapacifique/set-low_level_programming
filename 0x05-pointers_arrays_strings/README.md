@@ -18,5 +18,9 @@ This project covers pointers, arrays and strings in C.
 
 4. **I can only go one way. I've not got a reverse gear**: a function
    that prints a string in reverse, followed by a new line.
+
+5. **A good engineer thinks in reverse and asks himself about the
+   stylistic consequences of the components and systems he proposes**: a
+   function that reverses a string.
 ## Author
 Pacifique Kabanda
