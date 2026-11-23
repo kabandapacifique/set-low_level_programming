@@ -13,5 +13,8 @@ This project covers more pointers, arrays and strings in C.
 2. **strncpy**: a function that copies a string using at most `n`
    bytes, padding with null bytes like `strncpy`.
 
+3. **strcmp**: a function that compares two strings and works like
+   `strcmp`.
+
 ## Author
 Pacifique Kabanda
