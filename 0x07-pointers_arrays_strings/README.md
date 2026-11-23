@@ -21,5 +21,8 @@ This project covers memory functions, pointers, arrays and strings in C.
 5. **strstr**: a function that locates a substring and returns a pointer
    to its beginning, or `NULL`.
 
+6. **Chess is mental torture**: a function that prints a chessboard
+   from an 8x8 array of characters.
+
 ## Author
 Pacifique Kabanda
