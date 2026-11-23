@@ -24,5 +24,8 @@ This project covers memory functions, pointers, arrays and strings in C.
 6. **Chess is mental torture**: a function that prints a chessboard
    from an 8x8 array of characters.
 
+7. **The line of life is a ragged diagonal between duty and desire**: a
+   function that prints the sum of the two diagonals of a square matrix.
+
 ## Author
 Pacifique Kabanda
