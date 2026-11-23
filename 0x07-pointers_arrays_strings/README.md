@@ -9,5 +9,8 @@ This project covers memory functions, pointers, arrays and strings in C.
 1. **memcpy**: a function that copies a memory area and returns a
    pointer to `dest`.
 
+2. **strchr**: a function that locates a character in a string and
+   returns a pointer to its first occurrence, or `NULL`.
+
 ## Author
 Pacifique Kabanda
