@@ -21,5 +21,11 @@ This project covers more pointers, arrays and strings in C.
    integers.
 5. **Always look up**: a function that changes all lowercase letters of
    a string to uppercase.
+
+6. **Expect the best. Prepare for the worst. Capitalize on what comes**:
+   a function that capitalizes all words of a string.
+
+7. **Mozart composed his music not for the elite, but for everybody**: a
+   function that encodes a string into 1337.
 ## Author
 Pacifique Kabanda
