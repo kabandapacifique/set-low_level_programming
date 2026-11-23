@@ -12,5 +12,8 @@ This project covers memory functions, pointers, arrays and strings in C.
 2. **strchr**: a function that locates a character in a string and
    returns a pointer to its first occurrence, or `NULL`.
 
+3. **strspn**: a function that gets the length of a prefix substring
+   made only of accepted bytes.
+
 ## Author
 Pacifique Kabanda
