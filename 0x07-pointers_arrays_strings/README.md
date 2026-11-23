@@ -18,5 +18,8 @@ This project covers memory functions, pointers, arrays and strings in C.
 4. **strpbrk**: a function that searches a string for any of a set of
    bytes and returns a pointer to the first match, or `NULL`.
 
+5. **strstr**: a function that locates a substring and returns a pointer
+   to its beginning, or `NULL`.
+
 ## Author
 Pacifique Kabanda
