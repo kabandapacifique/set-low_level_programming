@@ -10,5 +10,8 @@ This project covers more pointers, arrays and strings in C.
 1. **strncat**: a function that concatenates two strings using at most
    `n` bytes from `src`.
 
+2. **strncpy**: a function that copies a string using at most `n`
+   bytes, padding with null bytes like `strncpy`.
+
 ## Author
 Pacifique Kabanda
