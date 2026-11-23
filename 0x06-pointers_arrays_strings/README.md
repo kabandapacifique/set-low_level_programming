@@ -16,5 +16,9 @@ This project covers more pointers, arrays and strings in C.
 3. **strcmp**: a function that compares two strings and works like
    `strcmp`.
 
+4. **I am a kind of paranoid in reverse. I suspect people of plotting to
+   make me happy**: a function that reverses the content of an array of
+   integers.
+
 ## Author
 Pacifique Kabanda
