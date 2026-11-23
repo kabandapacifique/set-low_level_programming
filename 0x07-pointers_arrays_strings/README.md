@@ -15,5 +15,8 @@ This project covers memory functions, pointers, arrays and strings in C.
 3. **strspn**: a function that gets the length of a prefix substring
    made only of accepted bytes.
 
+4. **strpbrk**: a function that searches a string for any of a set of
+   bytes and returns a pointer to the first match, or `NULL`.
+
 ## Author
 Pacifique Kabanda
